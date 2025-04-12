@@ -1,0 +1,24 @@
+.wrapper{
+    background-color: tomato;
+    color: white;
+    /* padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px; */
+    padding: 20px;
+}
+
+.wrapper1{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 20px;
+    /* margin-top: 20px; */
+    /* margin-left: 50px; */
+    margin: 30px;
+    /* border-right: 13px solid green; */
+    /* border-radius: 30px; */
+    /* border-top-left-radius: 30px; */
+    width: 200px;
+    /* height: 400px; */
+    box-shadow: 3px 4px 6px 7px black;
+    
+}

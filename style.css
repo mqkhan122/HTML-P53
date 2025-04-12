@@ -1,0 +1,20 @@
+.container{
+    background-color: blue;
+}
+.head1{
+   color: red;
+   text-align: center;
+   font-size: 60px;
+   text-transform: lowercase;
+   /* text-decoration: underline ; */
+   text-decoration-color: blue;
+   text-decoration-style: wavy;
+   /* letter-spacing: 30px; */
+   text-shadow: 10px 10px 5px blue;
+}
+.para{
+    font-weight: bold;
+    font-style: italic;
+    /* word-spacing: 50px; */
+    line-height: 60px;
+}
